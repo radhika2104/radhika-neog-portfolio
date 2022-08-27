@@ -1,3 +1,3 @@
-# My portfolio
+# My Component Library
 
-I will be adding my portfolio for NeoG Camp, LevelZero to this website.
+I am learning HTML and CSS in lessonThree.
